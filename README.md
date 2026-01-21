@@ -29,6 +29,7 @@
 ├── window.py               # Графический интерфейс (PyQt5)
 ├── planning.db             # Файл базы данных SQLite
 ├── planning.png            # Иконка приложения
+├── requirements.txt        # Список зависимостей Python (PyQt5)
 └── screenshots/            # Папка со скриншотами интерфейса
     └── interface_screenshot.png  # Скриншот главного окна программы
 ```
